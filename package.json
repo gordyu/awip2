@@ -31,7 +31,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.13.0",
     "@fortawesome/react-fontawesome": "^0.1.9",
     "bootstrap": "^4.4.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "graphql-yoga": "^1.18.3",
     "moment": "^2.24.0",
     "mongodb": "^3.5.5",
